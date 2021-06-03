@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{A406FD28-2D7C-4ED7-B5D3-ABC001C5261F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{3A67E193-708C-4909-B798-A8F30E32AA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServiceProject.Services.Catalog", "Services\Catalog\MicroServiceProject.Services.Catalog\MicroServiceProject.Services.Catalog.csproj", "{2FF6B212-8BF9-49E8-9630-A1C768E48699}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D6FF359-57A6-4020-BE2B-E2CB36AB9E9A}"
+	ProjectSection(SolutionItems) = preProject
+		Ports.txt = Ports.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{BD7916F1-6CF7-49D9-A35D-2333B92DE8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServiceProject.Shared", "Shared\MicroServiceProject.Shared\MicroServiceProject.Shared.csproj", "{3EDABFBD-8B09-41DB-80A4-316F0469133A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF6B212-8BF9-49E8-9630-A1C768E48699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF6B212-8BF9-49E8-9630-A1C768E48699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF6B212-8BF9-49E8-9630-A1C768E48699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF6B212-8BF9-49E8-9630-A1C768E48699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDABFBD-8B09-41DB-80A4-316F0469133A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDABFBD-8B09-41DB-80A4-316F0469133A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDABFBD-8B09-41DB-80A4-316F0469133A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDABFBD-8B09-41DB-80A4-316F0469133A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A67E193-708C-4909-B798-A8F30E32AA8E} = {A406FD28-2D7C-4ED7-B5D3-ABC001C5261F}
+		{2FF6B212-8BF9-49E8-9630-A1C768E48699} = {3A67E193-708C-4909-B798-A8F30E32AA8E}
+		{3EDABFBD-8B09-41DB-80A4-316F0469133A} = {BD7916F1-6CF7-49D9-A35D-2333B92DE8B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C492294-0EAE-4445-BAF5-25E960C10236}
+	EndGlobalSection
+EndGlobal

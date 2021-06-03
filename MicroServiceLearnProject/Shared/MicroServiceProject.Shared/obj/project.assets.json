@@ -8,27 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\UserAliniyor\\.nuget\\packages\\": {}
+    "C:\\Users\\turk_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserAliniyor\\Desktop\\Microservice_Learn\\MicroServiceLearn\\MicroServiceLearnProject\\Shared\\MicroServiceProject.Shared\\MicroServiceProject.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\turk_\\Desktop\\C#\\MicroServiceLearn\\MicroServiceLearnProject\\Shared\\MicroServiceProject.Shared\\MicroServiceProject.Shared.csproj",
       "projectName": "MicroServiceProject.Shared",
-      "projectPath": "C:\\Users\\UserAliniyor\\Desktop\\Microservice_Learn\\MicroServiceLearn\\MicroServiceLearnProject\\Shared\\MicroServiceProject.Shared\\MicroServiceProject.Shared.csproj",
-      "packagesPath": "C:\\Users\\UserAliniyor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserAliniyor\\Desktop\\Microservice_Learn\\MicroServiceLearn\\MicroServiceLearnProject\\Shared\\MicroServiceProject.Shared\\obj\\",
+      "projectPath": "C:\\Users\\turk_\\Desktop\\C#\\MicroServiceLearn\\MicroServiceLearnProject\\Shared\\MicroServiceProject.Shared\\MicroServiceProject.Shared.csproj",
+      "packagesPath": "C:\\Users\\turk_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\turk_\\Desktop\\C#\\MicroServiceLearn\\MicroServiceLearnProject\\Shared\\MicroServiceProject.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\UserAliniyor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+        "C:\\Users\\turk_\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -58,6 +56,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

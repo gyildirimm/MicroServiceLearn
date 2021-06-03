@@ -4,8 +4,7 @@ using System.Text;
 
 namespace MicroServiceProject.Shared.Dtos
 {
-    public class ResponseDto<T>
+    public class NoContent
     {
-        public T Data{ get; set; }
     }
 }

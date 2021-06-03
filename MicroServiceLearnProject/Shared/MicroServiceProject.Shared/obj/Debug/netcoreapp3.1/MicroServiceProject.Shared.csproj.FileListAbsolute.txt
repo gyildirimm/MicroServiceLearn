@@ -1,0 +1,9 @@
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\bin\Debug\netcoreapp3.1\MicroServiceProject.Shared.deps.json
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\bin\Debug\netcoreapp3.1\MicroServiceProject.Shared.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\bin\Debug\netcoreapp3.1\MicroServiceProject.Shared.pdb
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\obj\Debug\netcoreapp3.1\MicroServiceProject.Shared.csproj.AssemblyReference.cache
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\obj\Debug\netcoreapp3.1\MicroServiceProject.Shared.AssemblyInfoInputs.cache
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\obj\Debug\netcoreapp3.1\MicroServiceProject.Shared.AssemblyInfo.cs
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\obj\Debug\netcoreapp3.1\MicroServiceProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\obj\Debug\netcoreapp3.1\MicroServiceProject.Shared.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Shared\MicroServiceProject.Shared\obj\Debug\netcoreapp3.1\MicroServiceProject.Shared.pdb

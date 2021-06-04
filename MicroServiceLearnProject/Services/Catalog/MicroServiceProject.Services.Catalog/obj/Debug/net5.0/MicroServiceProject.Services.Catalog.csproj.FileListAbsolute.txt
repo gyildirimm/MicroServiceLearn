@@ -71,3 +71,10 @@ C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Ca
 C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\obj\Debug\net5.0\MicroServiceProject.Services.Catalog.genruntimeconfig.cache
 C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\MicroServiceProject.Shared.dll
 C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\MicroServiceProject.Shared.pdb
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Catalog\MicroServiceProject.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

@@ -32,6 +32,13 @@ namespace MicroServiceProject.Services.Catalog
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+            {
+                options.Authority = Configuration["IdentityServerURL"];
+                options.Audience = "resource_catalog";
+                options.RequireHttpsMetadata = false;
+            });
+
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<ICourseService, CourseService>();
 
@@ -50,13 +57,6 @@ namespace MicroServiceProject.Services.Catalog
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "MicroServiceProject.Services.Catalog", Version = "v1" });
-            });
-
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
-            {
-                options.Authority = Configuration["IdentityServerURL"];
-                options.Audience = "resource_catalog";
-                options.RequireHttpsMetadata = false;
             });
         }
 

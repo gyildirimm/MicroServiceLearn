@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDSQ4XMy6oRNZNXR7K90V6drpDcCIs8MH1rSjevQT4n+6JZgD1jQfjmTlPSFhqgwhxSvNLUuTDH5PJK5T0dJQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turk_\\Desktop\\C#\\MicroServiceLearn\\MicroServiceLearnProject\\Services\\Order\\MicroServiceProject.Services.Order.Domain\\MicroServiceProject.Services.Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turk_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\turk_\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\turk_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

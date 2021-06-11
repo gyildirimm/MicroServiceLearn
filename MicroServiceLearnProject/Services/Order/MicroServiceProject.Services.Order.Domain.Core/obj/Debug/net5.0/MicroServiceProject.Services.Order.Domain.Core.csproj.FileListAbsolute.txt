@@ -1,0 +1,12 @@
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\bin\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.deps.json
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\bin\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\bin\Debug\net5.0\ref\MicroServiceProject.Services.Order.Domain.Core.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\bin\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.pdb
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.AssemblyInfo.cs
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\ref\MicroServiceProject.Services.Order.Domain.Core.dll
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.pdb
+C:\Users\turk_\Desktop\C#\MicroServiceLearn\MicroServiceLearnProject\Services\Order\MicroServiceProject.Services.Order.Domain.Core\obj\Debug\net5.0\MicroServiceProject.Services.Order.Domain.Core.csproj.AssemblyReference.cache

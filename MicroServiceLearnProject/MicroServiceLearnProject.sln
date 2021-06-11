@@ -48,7 +48,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroServiceProject.Service
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FakePayment", "FakePayment", "{F74CFC06-C26B-4BEF-8AC6-D7929BDD4F75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServiceProject.Services.FakePayment", "Services\FakePayment\MicroServiceProject.Services.FakePayment\MicroServiceProject.Services.FakePayment.csproj", "{1AAA6392-B0B1-45CB-BBBF-829584376D38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroServiceProject.Services.FakePayment", "Services\FakePayment\MicroServiceProject.Services.FakePayment\MicroServiceProject.Services.FakePayment.csproj", "{1AAA6392-B0B1-45CB-BBBF-829584376D38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateways", "Gateways", "{3911A718-9384-43CF-B74E-41D784AE2477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroServiceProject.Gateway", "MicroServiceProject.Gateway\MicroServiceProject.Gateway.csproj", "{2271E594-14AE-4137-ACE1-D4325709E027}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -104,6 +108,10 @@ Global
 		{1AAA6392-B0B1-45CB-BBBF-829584376D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AAA6392-B0B1-45CB-BBBF-829584376D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AAA6392-B0B1-45CB-BBBF-829584376D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2271E594-14AE-4137-ACE1-D4325709E027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2271E594-14AE-4137-ACE1-D4325709E027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2271E594-14AE-4137-ACE1-D4325709E027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2271E594-14AE-4137-ACE1-D4325709E027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -127,6 +135,7 @@ Global
 		{8278AD6F-B8C9-4334-8BE4-ECA9984A416E} = {4BC97C4C-DF02-4A68-B952-741A6B5FF0BB}
 		{F74CFC06-C26B-4BEF-8AC6-D7929BDD4F75} = {A406FD28-2D7C-4ED7-B5D3-ABC001C5261F}
 		{1AAA6392-B0B1-45CB-BBBF-829584376D38} = {F74CFC06-C26B-4BEF-8AC6-D7929BDD4F75}
+		{2271E594-14AE-4137-ACE1-D4325709E027} = {3911A718-9384-43CF-B74E-41D784AE2477}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C492294-0EAE-4445-BAF5-25E960C10236}
